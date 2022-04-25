@@ -6,8 +6,6 @@
 //
 
 
-//Git Test
-
 import SwiftUI
 
 struct LandmarkList: View {
